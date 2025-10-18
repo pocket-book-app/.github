@@ -300,7 +300,7 @@ git clone https://github.com/pocket-book-app/pocket-book-web.git
 git clone https://github.com/pocket-book-app/pocket-book-mobile.git
 ```
 
-> A workspace setup script will be created in the future to automate the setup process.
+> A workspace setup script will be created once multiple repositories are available to automate the clone and setup process.
 
 ### Development Workflow
 
