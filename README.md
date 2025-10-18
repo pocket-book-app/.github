@@ -291,14 +291,16 @@ The `pocket-book-app` organization contains multiple repositories, each serving 
 
 ### Quick Start (Development)
 
+> **Note:** The following commands are for reference when the planned repositories are created. Currently, only the main `pocket-book-app` repository exists.
+
 ```bash
-# Clone all repositories (once they are created)
+# Clone all repositories (example for future use)
 git clone https://github.com/pocket-book-app/pocket-book-backend.git
 git clone https://github.com/pocket-book-app/pocket-book-web.git
 git clone https://github.com/pocket-book-app/pocket-book-mobile.git
 
-# Or use a workspace setup script (to be created)
-./scripts/setup-workspace.sh
+# Or use a workspace setup script (to be created in the future)
+# ./scripts/setup-workspace.sh
 ```
 
 ### Development Workflow
