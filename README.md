@@ -298,10 +298,9 @@ The `pocket-book-app` organization contains multiple repositories, each serving 
 git clone https://github.com/pocket-book-app/pocket-book-backend.git
 git clone https://github.com/pocket-book-app/pocket-book-web.git
 git clone https://github.com/pocket-book-app/pocket-book-mobile.git
-
-# Or use a workspace setup script (to be created in the future)
-# ./scripts/setup-workspace.sh
 ```
+
+> A workspace setup script will be created in the future to automate the setup process.
 
 ### Development Workflow
 
